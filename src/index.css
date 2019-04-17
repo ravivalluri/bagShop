@@ -1,0 +1,19 @@
+:root {
+  --mainWhite: #ffffff;
+  --mainGreen: #254d3f;
+  --mainBlack: #131212;
+  --mainGold: #ffae00;
+  --lightBlue: #0da8ad;
+  --lightGreen: #1aaf3b;
+  --stark: #e7dfdd;
+  --jewel: #4717f6;
+  --fuschia: #a239ca;
+  --void: #0e0b16;
+}
+
+body {
+  background: var(--void) !important;
+  color: var(--stark) !important;
+  margin: 0;
+  padding: 0;
+}
